@@ -1,0 +1,64 @@
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+    
+
+.chng{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+.side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.middle{
+    text-align: center;
+
+    }
+    section{
+        padding-top: 2%;
+    
+        height: 100px;
+    }
+.box{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: tomato;
+    box-shadow: 10px 5px 10px 10px #888888;
+
+    
+
+}
+.side img{
+    width: 70%;
+}
+
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.picture{
+    background-image: url(https://similarpng.com/grunge-frame-design-on-transparent-background-png/);
+    margin-bottom: 30px;
+
+}
+section{
+    padding-bottom: 200px;
+
+}
+.space{
+    padding-top: 150px;
+}
+
